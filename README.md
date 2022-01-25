@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Saman Karunanayake 
 - 👀 I’m interested in Python, JavaScript, and c++
 - 🌱 I’m currently learning ReactJS 
-- 💞️ I’m looking to collaborate on above topic 
+- 💞️ I’m looking to collaborate on above topics
 - 📫 How to reach me # you can send me e-mail to samanruhunage012@gmial.com
 
 <!---
